@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnchantingKata", "EnchantingKata\EnchantingKata.csproj", "{D1C18E4E-AE84-46A6-AE03-82130AEFB923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnchantingKata.Tests", "EnchantingKata.Tests\EnchantingKata.Tests.csproj", "{9B22E4AF-B0DC-4732-8EBD-79D572491D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C18E4E-AE84-46A6-AE03-82130AEFB923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C18E4E-AE84-46A6-AE03-82130AEFB923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C18E4E-AE84-46A6-AE03-82130AEFB923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C18E4E-AE84-46A6-AE03-82130AEFB923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B22E4AF-B0DC-4732-8EBD-79D572491D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B22E4AF-B0DC-4732-8EBD-79D572491D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B22E4AF-B0DC-4732-8EBD-79D572491D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B22E4AF-B0DC-4732-8EBD-79D572491D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
